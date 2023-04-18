@@ -1,0 +1,57 @@
+.container{
+height: 100%;
+width: 100%;
+background-color:white
+}
+.heading{
+padding-left: 40%;
+color:black
+}
+.home{
+  padding-left: 11%;
+  font-size: 30px;
+}
+.heading h1{
+  width: 100%;
+  font-size: 50px;
+}
+
+.content{
+    height: 50%;
+    width: 100%;
+    position: relative;
+    left: 150px;
+    color: black
+}
+.content h2{
+  color: #838383;
+  font-size: 30px;
+ padding-top: 50px;
+ padding-bottom: 30px;
+}
+.content p{
+    padding-top: 20px;
+    cursor: pointer;
+}
+.content a{
+    padding-top: 20px;
+    cursor: pointer;
+}
+.map{
+    height: 50%;
+    width: 100%;
+ padding-left: 5%;
+padding-top: 50px;
+}
+.fa-solid{
+ 
+   padding-right: 10PX;
+   color: rgb(211, 84, 37);
+}
+.fa-regular{
+  display: flex;
+ justify-content: center;
+  
+    padding-right: 10PX;
+    color: rgb(211, 84, 37);
+}

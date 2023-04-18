@@ -1,0 +1,152 @@
+*{
+    margin: 0%;
+    padding: 0%;font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.review{
+    padding: 48px 0;
+    background-image: linear-gradient(rgba(202, 16, 16, 0.688), rgb(195, 115, 11));
+    color: white;
+    text-align: center;
+}
+.inner{
+    max-width: 1200px;
+    margin: auto;
+    overflow: hidden;
+    padding: 0 20px;
+
+}
+.border{
+    width: 350px;
+    height: 5px;
+    background: #780d0d;
+    margin: 26px auto;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}
+.col{
+    flex: 33.33%;
+    max-width: 33.33%;
+    box-sizing: border-box;
+    padding: 15px;
+}
+.main{
+    background: #010000;
+    padding: 30px;
+
+}
+
+
+.mainimg{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+.name{
+    font-size: 20px;
+    text-transform: uppercase;
+    margin: 20px 0;
+    font-weight: bold;
+    color: #f1f1f1;
+}
+.stars{
+    color: #c03b3b;
+    margin-bottom: 20px;
+}
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+.heading{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 20px;
+    font-size: 40px;
+  margin: 10px;
+  
+   
+}
+.heading span{
+   color: chocolate;
+   
+}
+
+.row{
+    display: flex;
+    align-items:center;
+   
+}
+.row.img{
+    height: 100px;
+    width: 200px;
+    margin-right: 200px;
+   
+}
+.input{
+    position: relative;
+    display: flex;
+    justify-content: right;
+    bottom: 500px;
+  gap: 20px;
+  right: 60px;
+
+}
+
+.name{
+    height: 40px;
+    width: 300px;
+    border: 1px dotted black;
+    border-radius: 5px;
+    justify-content: space-between;
+}
+.email{
+    height: 40px;
+    width: 300px;
+    border: 1px dotted black;
+    border-radius: 5px;
+    
+}
+.number{
+    height: 40px;
+    width: 300px;
+    border: 1px dotted black;
+    border-radius: 5px;
+    margin-top: 2%;
+}
+.spam{
+    height: 40px;
+    width: 300px;
+    border: 1px dotted black;
+    border-radius: 5px;
+    margin-top: 2%;
+}
+.address{
+    position: relative;
+    bottom: 450px;
+    left: 835px;
+    height: 150px;
+    width: 630px;
+    border: 1px dotted black;
+    border-radius: 10px;
+}
+.btn{
+    position: relative;
+    bottom: 300px;
+    left: 235px;
+   
+    color: rgb(164, 52, 52);
+    text-decoration: none;
+    border: 2px solid rgb(147, 65, 65);
+    font-weight: bold;
+    padding: 10px 25px;
+    border-radius: 10px;
+}

@@ -1,0 +1,163 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+}
+.img{
+    height: 73%;
+    width: 100%;
+
+
+    
+background-image: url(https://i0.wp.com/naarisamata.org/wp-content/uploads/children.jpg?fit=1920%2C1080&ssl=1);
+background-repeat: no-repeat;
+    background-size: cover;
+}
+.data2{
+    padding-top: 23%;
+    padding-left: 3%;
+
+}
+.data2 p{
+
+    color: white;
+    font-size: 23px;
+    margin: 20px;
+}
+.data2 h1{
+    color: white;
+    font-size: 60px;
+    margin: 20px;
+}
+
+/* card section start */
+
+.card{
+
+width: 30%;
+background-color: #CA5552;
+border-radius: 10px;
+display: inline-block;
+margin: 9px;
+margin-top: 35px;
+transition: 0.5s;
+
+}
+.card:hover{
+    transform: scale(0.95);
+}
+
+
+.img2 img{
+border-top-right-radius: 10px;
+border-top-left-radius: 10px;
+    width: 100%;
+    height: 300px;
+    
+ 
+}
+
+.data{
+   text-align: center;
+}
+.data button{
+  
+    background-color: #3A2E34;
+color: white;
+padding: 15px;
+border: 1px rgb(13, 2, 2) ;
+border-radius: 7px;
+margin: 40px;
+
+
+}
+.data button:hover{
+    background-color: rgb(51, 148, 113);
+    color: antiquewhite;
+    transition: 0.5s;
+    background-color: #fecda5;
+    color: red;
+}
+.data h2{
+    font-size: 22px;
+    color: white;
+    margin: 30px;
+}
+.data p{
+    margin: 22px;
+    font-size: 20px;
+
+}
+.main{
+
+padding-left: 60px;
+    
+}
+
+
+
+
+/* <!-- donate section --> */
+
+.donate{
+    height: 80vh;
+    width: 100vw;
+    display: flex;
+    margin-top: 50px;
+
+
+}
+.text2{
+height: 70vh;
+    width: 50%;
+    background-color: #CA5552;
+ text-align: center;
+ padding-top: 11%;
+}
+   .text2 p{
+
+font-size: 20px;
+color: white;
+margin: 15px;
+
+   }
+
+   .text2  :nth-child(2){
+
+    font-size: 35px;
+  
+   }
+
+   .text2  :nth-child(3){
+
+    padding: 10px 48px;
+border-radius:9px;
+font-size: 15px;
+font-weight: bold;
+color: white;
+background-color: #3A2E34;
+margin: 10px;
+
+   }
+   .text2  :nth-child(3):hover{
+ color: #CA5552;
+    transition: 0.5s;
+   background-color: #fecda5;
+ 
+   }
+
+
+
+.pic{
+    height: 70vh;
+    width: 50%;
+ 
+}
+.pic img{
+    height: 70vh;
+    width: 100%;
+}

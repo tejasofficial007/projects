@@ -1,0 +1,343 @@
+.container{
+    height: 100%;
+    width: 100%;
+   background-color: white;
+}
+.heading{
+    margin-left: 80px;
+    font-size: 25px;
+  
+}
+.images6{
+    height: 100%;
+    width: 100%;
+    display: grid;
+    gap: 70px;
+    align-items: center;
+    justify-content: center;
+    grid-template-rows: repeat(2,auto);
+    grid-template-columns: repeat(3,auto);
+    
+}
+.a{
+    background-image: url(https://www.tamilnadutourism.tn.gov.in/virtualtour-pkg/img/thanjavur_virtualtour.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 400px;
+ transition: 1s;
+   
+}
+.a:hover{
+    transform: scale(1.1);
+   
+}
+
+
+.b{
+    background-image: url(https://www.tamilnadutourism.tn.gov.in/virtualtour-pkg/img/mamallapuram_virtualtour.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 400px;
+    transition: 1s;
+}
+.b:hover{
+    transform: scale(1.1);
+   
+}
+
+.c{
+    background-image: url(https://www.tamilnadutourism.tn.gov.in/virtualtour-pkg/img/darasuram_virtualtour.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 400px;
+     transition: 1s;
+}
+.c:hover{
+    transform: scale(1.1);
+   
+}
+
+.d{
+    background-image: url(https://www.tamilnadutourism.tn.gov.in/virtualtour-pkg/img/gkcpuram_virtualtour.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 400px;
+     transition: 1s;
+}
+.d:hover{
+    transform: scale(1.1);
+   
+}
+
+.e:hover{
+    transform: scale(1.1);
+   
+}
+
+.e{
+    background-image: url(https://www.tamilnadutourism.tn.gov.in/virtualtour-pkg/img/nilgirimountaintrain_virtualltour.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 400px;
+     transition: 1s;
+}
+.e:hover{
+    transform: scale(1.1);
+   
+}
+
+.f{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8OOk2CXnYww-N-_goj7x5oHOsg18_M1oXJO2ZjiQTzQ&usqp=CAU&ec=48600113);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 300px;
+    width: 400px;
+     transition: 1s;
+}
+.f:hover{
+    transform: scale(1.1);
+   
+}
+.fa-solid{
+    padding-right: 10px;
+}
+
+.images6 p{
+    color:white;
+    display: flex;
+  align-items: last baseline;
+ justify-content: first baseline;
+ margin-top: 260px;
+margin-left: 20px;
+}
+.flex{
+    height: 100%;
+    width: 100%;
+}
+.title{
+    font-size: 20px;
+    padding-left: 500px;
+    margin-top: 50px;
+    margin-bottom: 70px;
+}
+.images7{
+    height: 100%;
+    width: 100%;
+    display: grid;
+   gap: 30px;
+    align-items: center;
+    justify-content: center;
+    grid-template-rows: repeat(3,auto);
+    grid-template-columns: repeat(4,auto);
+}
+.p1{
+    background-image: url(https://media.tagembed.com/post/35128/43533/73117/567947018691081_567946832024433.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 300px;
+     transition: 1s;
+}
+.p1:hover{
+transform: scale(1.1);
+}
+.p2{
+    background-image: url(https://media.tagembed.com/post/35128/43533/73117/567292525423197_567292285423221.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 300px;
+     transition: 1s;
+}
+.p2:hover{
+    transform: scale(1.1);
+    }
+.p3{
+    background-image: url(https://media.tagembed.com/post/35128/43533/73117/565069572312159_565068048978978.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 300px;
+     transition: 1s;
+}
+.p3:hover{
+    transform: scale(1.1);
+    }
+.p4{
+    background-image: url(https://media.tagembed.com/post/35128/43533/73117/562931699192613.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 300px;
+     transition: 1s;
+}
+.p4:hover{
+    transform: scale(1.1);
+    }
+.p5{background-image: url(https://media.tagembed.com/post/35128/43533/73117/562078809277902.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 695px;
+    width: 598px;
+     transition: 1s;
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 4;
+
+}
+.p5:hover{
+    transform: scale(1.1);
+    }
+.p6{
+    background-image: url(https://media.tagembed.com/post/35128/43533/73117/561433656009084.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 300px;
+     transition: 1s;
+}
+.p6:hover{
+    transform: scale(1.1);
+    }
+.p7{
+    background-image: url(https://media.tagembed.com/post/35128/43533/73117/557140249771758.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 300px;
+     transition: 1s;
+}
+.p7:hover{
+    transform: scale(1.1);
+    }
+.p8{
+    background-image: url(https://media.tagembed.com/post/35128/43533/73117/555853819900401_555853376567112.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 300px;
+     transition: 1s;
+}
+.p8:hover{
+    transform: scale(1.1);
+    }
+.p9{
+    background-image: url(https://media.tagembed.com/post/35128/43533/73117/555853819900401_555853516567098.png);
+      background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+    width: 300px;
+     transition: 1s;
+}
+.p9:hover{
+    transform: scale(1.1);
+    }
+.subscribe{
+    height: 50%;
+    width: 100%;
+}
+.main{
+    font-size: 25px;
+}
+.page{
+    display: flex;
+ align-items: center;
+   justify-content: space-between;
+   margin-top: 70px;
+
+}
+.button{
+    background-color: #FFCE11;
+   color: rgb(4, 2, 2);
+    text-decoration: none;
+   border: 2px solid transparent;
+   font-weight: bold;
+   padding: 12px 45px;
+   border-radius:10px;
+   transition: transform .1sec;
+   margin-right: 20px;
+}
+.btn:hover{
+    transform: scale(1.1);
+}
+.first{
+    font-size: 20px;
+    padding-left: 30px;
+}
+.second{
+    font-size: 20px;
+    padding-left: 30px;
+}
+input{
+    width: 500px;
+    margin-top: 40px;
+border: transparent;
+border-bottom: 2px solid grey;
+
+}
+.contact{
+   color: white;
+    height: 50%;
+   
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  padding: 50px 100px; 
+ margin-top: 80px;
+ 
+  
+
+}
+.data2{
+   
+   color: white;
+   margin-right: 50px;
+  
+}
+.line{ 
+margin-right: 150px;
+    border-top: 1px solid grey;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.contact span{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.icon{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-right: 20px;
+  
+}
+.fa-brands{
+    font-size: 30px;
+    margin: 8px;
+    background-color:rgb(255, 34, 0);
+    color: white;
+}
